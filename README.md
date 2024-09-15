@@ -1,4 +1,5 @@
-Graph and Data Structures Project
+Graph and Data Structures Project:
+
 This project implements several graph traversal algorithms (DFS, BFS) and data structures like stacks, linked lists, and hash tables. The code is written in Java and includes a variety of classes for working with both directed and undirected graphs, as well as utility data structures to support these operations.
 
 Features
